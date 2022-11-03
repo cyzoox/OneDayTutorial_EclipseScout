@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/contacts/contacts.client/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/contacts/contacts.client/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/contacts/contacts.server.app.dev/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/contacts/contacts.server.app.dev/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/contacts/contacts.server.app.war/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/contacts/contacts.server.app.war/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/contacts/contacts.server/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/contacts/contacts.server/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/contacts/contacts.shared/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/contacts/contacts.shared/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/contacts/contacts.ui.html.app.dev/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/contacts/contacts.ui.html.app.dev/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/contacts/contacts.ui.html.app.war/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/contacts/contacts.ui.html.app.war/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/contacts/contacts.ui.html/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/contacts/contacts.ui.html/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/contacts/contacts/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/contacts/contacts/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/contacts/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/contacts/src/main/resources" charset="UTF-8" />
+  </component>
+</project>
