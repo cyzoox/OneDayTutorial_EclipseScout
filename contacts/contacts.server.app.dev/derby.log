@@ -1,6 +1,6 @@
 ----------------------------------------------------------------
-Thu Nov 03 14:21:33 SGT 2022:
-Booting Derby version The Apache Software Foundation - Apache Derby - 10.15.2.0 - (1873585): instance a816c00e-0184-3c26-e68a-00000e442588 
+Thu Nov 03 15:44:27 SGT 2022:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.15.2.0 - (1873585): instance a816c00e-0184-3c72-ced9-00000e2e92b8 
 on database directory memory:/home/clintjamesrpascual/IdeaProjects/contacts/contacts/contacts.server.app.dev/contacts-database with class loader jdk.internal.loader.ClassLoaders$AppClassLoader@251a69d7 
 Loaded from file:/home/clintjamesrpascual/.m2/repository/org/apache/derby/derby/10.15.2.0/derby-10.15.2.0.jar
 java.vendor=Private Build

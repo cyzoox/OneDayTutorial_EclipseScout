@@ -3,6 +3,7 @@ package org.eclipse.scout.apps.contacts.client;
 import java.beans.PropertyChangeEvent;
 import java.util.List;
 
+import org.eclipse.scout.apps.contacts.client.person.PersonForm;
 import org.eclipse.scout.rt.client.session.ClientSessionProvider;
 import org.eclipse.scout.rt.client.ui.action.keystroke.IKeyStroke;
 import org.eclipse.scout.rt.client.ui.action.menu.AbstractMenu;
@@ -108,15 +109,26 @@ public class Desktop extends AbstractDesktop {
 
   @Order(1000)
   public class QuickAccessMenu extends AbstractMenu {
+
     @Override
     protected String getConfiguredText() {
-      return TEXTS.get("QuickAccess0");
+      return TEXTS.get("QuickAccess");
     }
 
-    @Override
-    protected void execAction() {
+    @Order(10)
+    public class NewPersonMenu extends AbstractMenu {
 
+      @Override
+      protected String getConfiguredText() {
+        return TEXTS.get("NewPersonMenu");
+      }
+
+      @Override
+      protected void execAction() {
+        new PersonForm().startNew();
+      }
     }
+
   }
 
   @Order(2000)
